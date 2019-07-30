@@ -10,9 +10,6 @@
     "tdd": "jest --verbose --config ./.configs/jest.config.js --runInBand --watchAll",
     "test:coverage": "jest --coverage --bail --config ./.configs/jest.config.js --runInBand"
   },
-  "publishConfig": {
-    "registry": "http://artifactory.sbtech.com:8081/artifactory/api/npm/skins-dev-npm"
-  },
   "repository": {
     "type": "git",
     "url": ""
