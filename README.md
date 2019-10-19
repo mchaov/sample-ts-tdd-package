@@ -1,4 +1,4 @@
-# Sample starting point for Typescript
+# Sample starting point for Typescript with TDD
 
 ## Prerequisites
 
