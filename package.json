@@ -10,7 +10,7 @@
     "test": "jest --bail --config ./.configs/jest.config.js --runInBand",
     "tdd": "jest --verbose --config ./.configs/jest.config.js --runInBand --watchAll",
     "test:coverage": "jest --coverage --bail --config ./.configs/jest.config.js --runInBand",
-    "start": "http-server"
+    "start": "ws"
   },
   "repository": {
     "type": "git",
@@ -32,6 +32,6 @@
     "jest-date-mock": "1.0.8"
   },
   "dependencies": {
-    "http-server": "0.12.1"
+    "local-web-server": "3.0.7"
   }
 }
