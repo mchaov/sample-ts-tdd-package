@@ -32,6 +32,6 @@
     "jest-date-mock": "1.0.8"
   },
   "dependencies": {
-    "local-web-server": "3.0.7"
+    "local-web-server": "4.0.0"
   }
 }
